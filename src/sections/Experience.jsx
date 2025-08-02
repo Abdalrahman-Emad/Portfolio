@@ -18,7 +18,7 @@ const WorkExperience = () => {
         <div className="work-container">
           {/* <div className="work-canvas"> */}
           <div>
-            <Canvas>
+            {/* <Canvas>
               <ambientLight intensity={7} />
               <spotLight position={[10, 10, 10]} angle={0.15} penumbra={1} />
               <directionalLight position={[10, 10, 10]} intensity={1} />
@@ -27,8 +27,8 @@ const WorkExperience = () => {
               <Suspense fallback={<CanvasLoader />}>
                 <Developer position-y={-3} scale={3} animationName={animationName} />
               </Suspense>
-            </Canvas>
-            {/* <img src={per_img} alt="Personal image" /> */}
+            </Canvas> */}
+            <img src={per_img} alt="Personal image" />
           </div>
 
           <div className="work-content">
