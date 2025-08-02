@@ -251,4 +251,15 @@ export const workExperiences = [
     icon: '/assets/framer.svg',
     animation: 'salute',
   },
+  {
+  id: 5,
+  name: 'Freelance Front-End Developer',
+  pos: 'Freelance Front-End Developer',
+  duration: 'Present',
+  title:
+    'Built and deployed multiple responsive websites using Next.js and Tailwind CSS for clients in Saudi Arabia. Delivered a fully optimized bilingual landing page for Jotal, a pest control company in Jeddah. Implemented advanced SEO techniques, integrated Google Search Console, and configured domain via GoDaddy. Collaborated closely with clients to gather requirements, iterate on UI/UX design, and deploy live solutions using Vercel.',
+  icon: '/assets/framer.svg',
+  animation: 'slide',
+}
+
 ];

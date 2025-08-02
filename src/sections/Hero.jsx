@@ -63,7 +63,7 @@ const Hero = () => {
 
         {/* Button to download CV */}
         <a
-          href="/Abdulrahman_Emad_CV.pdf"
+          href="/Abdulrahman Emad-Cv.pdf"
           download
           className="w-fit px-6 py-3 rounded bg-white text-black font-semibold text-sm hover:bg-gray-200 transition-all duration-200"
         >
